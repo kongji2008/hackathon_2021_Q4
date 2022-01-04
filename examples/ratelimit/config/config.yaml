@@ -1,0 +1,8 @@
+---
+domain: everbridge
+descriptors:
+  - key: org
+    descriptors:
+      - key: product
+        descriptors:
+          - key: method
